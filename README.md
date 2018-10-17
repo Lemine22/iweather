@@ -1,3 +1,3 @@
 # iweather
-Weather app
+Weather app based on Ionic 3
 
